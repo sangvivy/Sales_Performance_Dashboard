@@ -116,22 +116,6 @@ These slicers allow users to dynamically explore the data across different dimen
 
 ---
 
-## 📝 Notes
-
-* No DAX measures were used
-* No Power Query transformations were applied
-* All aggregations were performed automatically by Power BI
-* The project complies fully with lab instructions
-
----
-
-## 👤 Author
-
-**Student Name:** Vivy Sang
-**Course:** Data Science / Analytics
-**Tool:** Power BI
-
----
 
 ## ✅ Conclusion
 
