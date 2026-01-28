@@ -1,6 +1,9 @@
 # Sales_Performance_Dashboard
 # 📊 Power BI Sales Dashboard Project
 
+##  Author
+Vivian386
+
 ## 📌 Project Overview
 
 This project involves the creation of an interactive **Sales Performance Dashboard** using **Power BI Desktop and Power BI Service**. The dashboard is built strictly using **built-in visuals and automatic aggregations** without the use of **DAX**, **Power Query transformations**, or calculated fields.
@@ -108,14 +111,6 @@ These slicers allow users to dynamically explore the data across different dimen
 * A shareable link was generated and submitted as required
 
 ---
-
-## 📎 Access Link
-
-🔗 *Power BI Report/Dashboard Link:*
-(Insert shared Power BI link here)
-
----
-
 
 ## ✅ Conclusion
 
